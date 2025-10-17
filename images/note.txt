@@ -1,0 +1,3 @@
+all images pertaining to the project are to be saved here
+
+Images include: Block diagrams, code Screenshots, Output screenshots, Waveform screenshots in gtkwave etc.
