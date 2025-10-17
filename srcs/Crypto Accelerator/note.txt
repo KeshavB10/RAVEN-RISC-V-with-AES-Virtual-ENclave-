@@ -1,0 +1,3 @@
+Directory to be maintained by Meriya, Krishnadev and Jeevan until the end of the project.
+
+All works pertaining to the AES crypto accelerator are to be saved in this directory.
