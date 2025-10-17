@@ -1,0 +1,3 @@
+Save all the code for each module in this folder.
+
+RISC-V core should be in a separate directory called RISC-V coming under "srcs" directory. Same goes for the Cryptography Accelerator
